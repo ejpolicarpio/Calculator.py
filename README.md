@@ -2,7 +2,7 @@
 
 ## About The Project
 
-This project demonstrates a chatbot implemented in Python for console interaction.
+This project demonstrates a calculator using python
 
 Feature:
 * Chat Console: Engage in conversations with the Python chatbot within the console.
