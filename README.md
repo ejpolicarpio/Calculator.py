@@ -35,4 +35,5 @@ Ensure the following prerequisites are met before getting started:
 
 
 ## Usage
-Once the Word-Counter.py script is executed, engage with its functions to participate in the word guessing game.
+Open the terminal or command prompt.
+Run the calculator by executing:
