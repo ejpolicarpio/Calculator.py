@@ -30,7 +30,7 @@ Ensure the following prerequisites are met before getting started:
 3. Navigate to the project directory.
 4. Run python Chatbot.py to start the chatbot.
    ```sh
-   python Word-Counter.py
+   python calculator.py
    ```
 
 
