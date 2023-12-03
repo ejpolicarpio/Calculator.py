@@ -1,7 +1,7 @@
-# Word-Guessing Game Using Python
+# Calculator
 
 ## About The Project
-This project presents an interactive word guessing game using Python's console.
+This project involves a basic calculator application implemented in Python.
 
 Feature:
 * Allows users to guess words
