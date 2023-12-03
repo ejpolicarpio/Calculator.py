@@ -1,36 +1,38 @@
-# Calculator.py
+# Word-Guessing Game Using Python
 
 ## About The Project
-
-This project demonstrates a calculator using python
+This project presents an interactive word guessing game using Python's console.
 
 Feature:
-* Chat Console: Engage in conversations with the Python chatbot within the console.
-* Response Management: Add, save, and manage preferred responses.
-* Storage: Store and access the collected responses.
+* Allows users to guess words
+* Provides feedback on correct or incorrect guesses
 
 ### Built With
-* Python and Pycharm
-* JSON
+* Python 
+* Pycharm
+
 
 ## Getting Started
 
 ### Prerequisites
+Ensure the following prerequisites are met before getting started:
 
-* Python installed on your system and IDE ready
-* Any additional libraries or dependencies needed
+* Python is installed on your system
+* An Integrated Development Environment (IDE) is set up
+
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repository:
    ```sh
-   git clone https://github.com/Erhesvara/Chatbot.git
+   git clone https://github.com/Erhesvara/Word-Guessing-Game.git 
    ```
 3. Navigate to the project directory.
 4. Run python Chatbot.py to start the chatbot.
-   
-![image](https://github.com/Erhesvara/Chatbot/assets/106751010/5f3038eb-ad36-4c5a-8385-ff8b8e31e975)
+   ```sh
+   python Word-Counter.py
+   ```
+
 
 ## Usage
-
-After Running the Chatbot.py interact and engage in conversation within the console interaction
+Once the Word-Counter.py script is executed, engage with its functions to participate in the word guessing game.
