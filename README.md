@@ -4,7 +4,7 @@
 This project involves a basic calculator application implemented in Python.
 
 Feature:
-* Allows users to guess words
+* Performs basic arithmetic operations (addition, subtraction, multiplication, division)
 * Provides feedback on correct or incorrect guesses
 
 ### Built With
