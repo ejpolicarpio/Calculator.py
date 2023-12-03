@@ -40,3 +40,4 @@ Ensure the following prerequisites are met before getting started:
    ```sh
    git clone https://github.com/Erhesvara/Calculator.py.git
    ```
+3. Follow the on-screen instructions to perform calculations.
