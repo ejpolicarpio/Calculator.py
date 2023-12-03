@@ -28,11 +28,7 @@ Ensure the following prerequisites are met before getting started:
    git clone https://github.com/Erhesvara/Calculator.py.git
    ```
 3. Navigate to the project directory.
-4. Run python Chatbot.py to start the chatbot.
-   ```sh
-   python calculator.py
-   ```
-
+4. Run python Calculator.py
 
 ## Usage
 1. Open the terminal or command prompt.
