@@ -35,5 +35,8 @@ Ensure the following prerequisites are met before getting started:
 
 
 ## Usage
-Open the terminal or command prompt.
-Run the calculator by executing:
+1. Open the terminal or command prompt.
+2. Run the calculator by executing:
+   ```sh
+   git clone https://github.com/Erhesvara/Calculator.py.git
+   ```
