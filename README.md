@@ -5,7 +5,7 @@ This project involves a basic calculator application implemented in Python.
 
 Feature:
 * Performs basic arithmetic operations (addition, subtraction, multiplication, division)
-* Provides feedback on correct or incorrect guesses
+* Handles both integers and floating-point numbers
 
 ### Built With
 * Python 
