@@ -1,4 +1,4 @@
-# Calculator
+# Calculator Using Python
 
 ## About The Project
 This project involves a basic calculator application implemented in Python.
