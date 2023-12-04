@@ -11,7 +11,6 @@ Feature:
 * Python 
 * Pycharm
 
-
 ## Getting Started
 
 ### Prerequisites
