@@ -1,5 +1,6 @@
 # Calculator Using Python
 
+
 ## About The Project
 This project involves a basic calculator application implemented in Python.
 
@@ -10,7 +11,6 @@ Feature:
 ### Built With
 * Python 
 * Pycharm
-
 
 
 ## Getting Started
